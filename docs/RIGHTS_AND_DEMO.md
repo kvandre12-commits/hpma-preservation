@@ -85,6 +85,11 @@ If rights holders permit interoperability but cannot release server code, a clea
 
 Whether this is lawful depends on jurisdiction, contracts and the granted permission. Obtain counsel before beginning.
 
+## Working documents
+
+- [Rights request template](RIGHTS_REQUEST_TEMPLATE.md)
+- [Proposed demonstration scope](DEMO_SPEC.md)
+
 ## Current public boundary
 
 This repository intentionally publishes documentation, hashes, inventories, and preservation tooling—not the game client, extracted assets, credentials, proprietary server code, or a playable clone.
