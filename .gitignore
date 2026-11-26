@@ -1,0 +1,12 @@
+# Never publish game binaries or private player captures.
+*.apk
+*.apks
+*.xapk
+*.obb
+client-backup/
+player-private/
+official-page-snapshots/
+
+# Local noise
+.DS_Store
+*.log

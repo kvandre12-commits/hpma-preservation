@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "record_type": "installed-android-client-identity",
+  "captured_at_utc": "2026-11-26T14:43:03Z",
+  "application": {
+    "title": "Harry Potter: Magic Awakened",
+    "package": "com.netease.hpmaally",
+    "distribution": "NetEase Android client"
+  },
+  "artifact": {
+    "name": "base.apk",
+    "size_bytes": 2146493294,
+    "zip_entry_count": 3291,
+    "sha256": "0ee00d4145b310d8ca6d7ec6e975afa3bf51108ffcf4f8b94ee694e0667e5bc9",
+    "signing_block_g92_rsa_sha256": "75a871a16e39bf3e885304a3b98c9bb2936849d0753a9a133ea01feae7abb68e"
+  },
+  "publication_boundary": {
+    "client_distributed": false,
+    "extracted_assets_distributed": false,
+    "credentials_collected": false,
+    "server_preserved": false
+  },
+  "claims": [
+    "The hashes identify the installed artifact observed at capture time.",
+    "This record does not establish ownership, redistribution rights, server compatibility, or continued service availability."
+  ]
+}
